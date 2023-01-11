@@ -14,19 +14,14 @@ A little bit about myself and my background.
 ## Skills
 
 ### Programming languages
-- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
-- ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
+- ![Python](https://img.icons8.com/color/48/000000/python.png) Python  ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++  ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
 
 ### Web development
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-- ![React](https://img.icons8.com/color/48/000000/react-native.png) React
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML  ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript  ![React](https://img.icons8.com/color/48/000000/react-native.png) React
 
 ### Tools
-- ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code.png) Visual Studio Code
-- ![Git](https://img.icons8.com/color/48/000000/git.png) Git
+- ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code.png) Visual Studio Code  ![Git](https://img.icons8.com/color/48/000000/git.png) Git
+
 
 
 ## Profiles
