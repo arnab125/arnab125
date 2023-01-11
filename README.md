@@ -11,8 +11,6 @@ A little bit about myself and my background.
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnab125&show_icons=true)
 
-[![Codeforces stats](https://cfapi.xyz/user?handle=arn125)](https://codeforces.com/profile/arn125)
-
 
 ## Skills
 
