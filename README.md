@@ -7,32 +7,33 @@ A little bit about myself and my background.
 - Frameworks and technologies: (e.g. React, Tensorflow, Git)
 - Other skills: (e.g. machine learning, data analysis)
 
-## Projects
-- [Project Name](link) - A brief description of the project and its purpose.
-- [Project Name](link) - A brief description of the project and its purpose.
-- [Project Name](link) - A brief description of the project and its purpose.
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnab125&show_icons=true)
 
-## Education
-- Degree and field of study, Institution Name
-- Degree and field of study, Institution Name
+## Skills
 
-## Experience
-- Job Title, Company Name, Dates of Employment
-- Job Title, Company Name, Dates of Employment
+### Programming languages
+- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
+- ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
 
-## Contact
-- LinkedIn: [My LinkedIn profile](link)
-- Email: my.email@example.com
+### Web development
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
+- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- ![React](https://img.icons8.com/color/48/000000/react-native.png) React
+
+### Tools
+- ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code.png) Visual Studio Code
+- ![Git](https://img.icons8.com/color/48/000000/git.png) Git
+
+
+## Profiles
+- [HackerRank](https://www.hackerrank.com/arn125) - My HackerRank Profile 
+- [CodeForces](https://codeforces.com/profile/arn125) - My CodeForces Profile 
+- [LeetCode](https://leetcode.com/arn125/) - My LeetCode Profile 
 
 ## Acknowledgements
-- Thanks to (names) for the inspiration and guidance 
+- Thanks to (Phitron) for the inspiration and guidance 
 
-## Find me on
-- [Twitter](link)
-- [Facebook](link)
-- [Website](link)
-
-## Anything else you want to include
