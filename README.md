@@ -19,7 +19,7 @@ A little bit about myself and my background.
 - ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
 
 ### Web development
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
+- ![HTML]HTML(https://img.icons8.com/color/48/000000/html-5.png)
 - ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
 - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
 - ![React](https://img.icons8.com/color/48/000000/react-native.png) React
