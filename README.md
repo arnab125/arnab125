@@ -10,17 +10,17 @@ A little bit about myself and my background.
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnab125&show_icons=true)
-
 ## Skills
 
 ### Programming languages
-- ![Python](https://img.icons8.com/color/48/000000/python.png) Python  ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++  ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
+- ![Python](https://img.icons8.com/color/48/000000/python.png)  ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)  ![C](https://img.icons8.com/color/48/000000/c-programming.png) 
 
 ### Web development
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML  ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript  ![React](https://img.icons8.com/color/48/000000/react-native.png) React
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png)  ![CSS](https://img.icons8.com/color/48/000000/css3.png)  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  ![React](https://img.icons8.com/color/48/000000/react-native.png) 
 
 ### Tools
-- ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code.png) Visual Studio Code  ![Git](https://img.icons8.com/color/48/000000/git.png) Git
+- ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code.png)  ![Git](https://img.icons8.com/ios-filled/50/000000/git.png)
+
 
 
 
