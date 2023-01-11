@@ -3,8 +3,8 @@
 A little bit about myself and my background.
 
 ## Skills
-- Programming languages: (e.g. Python, JavaScript, Java)
-- Frameworks and technologies: (e.g. React, Tensorflow, Git)
+- Programming languages: (e.g. Python, JavaScript, C++, C)
+- Frameworks and technologies: (e.g. React, Git)
 - Other skills: (e.g. machine learning, data analysis)
 
 
