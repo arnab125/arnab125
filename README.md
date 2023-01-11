@@ -19,7 +19,8 @@ A little bit about myself and my background.
 - ![HTML](https://img.icons8.com/color/48/000000/html-5.png)  ![CSS](https://img.icons8.com/color/48/000000/css3.png)  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  ![React](https://img.icons8.com/color/48/000000/react-native.png) 
 
 ### Tools
-- ![VS Code](https://icons8.com/icon/0OQR1FYCuA9f/visual-studio-code-2019) Visual Studio Code ![Git](https://img.icons8.com/color/50/000000/git.png) Git
+- ![VS Code](https://icons8.com/icon/0OQR1FYCuA9f/visual-studio-code-2019) Visual Studio Code ![Git](https://img.icons8.com/color/50/000000/git.png) Git 
+![PyCharm](https://icons8.com/icon/117121/pycharm) PyCharm
 
 
 
