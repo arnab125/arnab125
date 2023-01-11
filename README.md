@@ -1,4 +1,4 @@
-# My name
+# Arnab Tasnim Pranto
 
 A little bit about myself and my background.
 
@@ -36,4 +36,7 @@ A little bit about myself and my background.
 
 ## Acknowledgements
 - Thanks to (Phitron) for the inspiration and guidance 
+
+## Contact Me
+- Email: arnabtasnimpranto@gmail.com
 
