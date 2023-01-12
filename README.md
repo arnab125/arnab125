@@ -9,7 +9,8 @@ A little bit about myself and my background.
 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnab125&show_icons=true)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arnab125&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Skills
