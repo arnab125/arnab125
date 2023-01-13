@@ -34,8 +34,6 @@ A little bit about myself and my background.
 - [CodeForces](https://codeforces.com/profile/arn125) - My CodeForces Profile 
 - [LeetCode](https://leetcode.com/arn125/) - My LeetCode Profile 
 
-## Acknowledgements
-- Thanks to (Phitron) for the inspiration and guidance 
 
 ## Contact Me
 - Email: arnabtasnimpranto@gmail.com
