@@ -20,8 +20,7 @@ A little bit about myself and my background.
 - ![Python](https://img.icons8.com/color/48/000000/python.png)  ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)  ![C](https://img.icons8.com/color/48/000000/c-programming.png) 
 
 ### Web development
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png)  ![CSS](https://img.icons8.com/color/48/000000/css3.png)  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  ![React](https://img.icons8.com/color/48/000000/react-native.png)  ![Django]
-(https://img.icons8.com/color/48/000000/django.png)
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png)  ![CSS](https://img.icons8.com/color/48/000000/css3.png)  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  ![React](https://img.icons8.com/color/48/000000/react-native.png)  ![Django](https://img.icons8.com/color/48/000000/django.png)
 
 
 ### Tools
