@@ -25,7 +25,7 @@ A little bit about myself and my background.
 
 ### Tools
 - ![Git](https://img.icons8.com/color/50/000000/git.png)  ![VS Code](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png)
-![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png)  ![Postman](https://img.icons8.com/color/48/000000/postman-api.png)
+![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png)  ![Postman logo](https://i.imgur.com/NV4peop.png)
 
 
 
