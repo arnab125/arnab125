@@ -17,7 +17,7 @@ A little bit about myself and my background.
 ## Skills
 
 ### Programming languages
-- ![Python](https://img.icons8.com/color/48/000000/python.png)  ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)  ![C](https://img.icons8.com/color/48/000000/c-programming.png) 
+- ![Python](https://img.icons8.com/color/48/000000/python.png)  ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)  ![C](https://img.icons8.com/color/48/000000/c-programming.png)  ![Kotlin logo](https://img.icons8.com/color/48/000000/kotlin.png)
 
 ### Web development
 - ![HTML](https://img.icons8.com/color/48/000000/html-5.png)  ![CSS](https://img.icons8.com/color/48/000000/css3.png)  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  ![React](https://img.icons8.com/color/48/000000/react-native.png)  ![Django](https://img.icons8.com/color/48/000000/django.png)  ![Django REST framework](https://img.icons8.com/color/48/000000/api-settings.png)
@@ -25,7 +25,7 @@ A little bit about myself and my background.
 
 ### Tools
 - ![Git](https://img.icons8.com/color/50/000000/git.png)  ![VS Code](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png)
-![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png)  ![Postman API icon](https://img.icons8.com/color/48/000000/postman-api.png)
+![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png)
 
 
 
