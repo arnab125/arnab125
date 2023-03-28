@@ -2,11 +2,6 @@
 
 A little bit about myself and my background.
 
-## Skills
-- Programming languages: (e.g. Python, JavaScript, C++, C)
-- Frameworks and technologies: (e.g. React, Git)
-- Other skills: (e.g. machine learning, data analysis)
-
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnab125&show_icons=true&count_private=1)
